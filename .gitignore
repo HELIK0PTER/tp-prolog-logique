@@ -1,1 +1,5 @@
+# Fichiers d'environnement intelliJ
 .idea
+
+# Fichiers word car ils sont inutiles
+*.doc, *.docx
