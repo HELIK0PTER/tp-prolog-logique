@@ -2,4 +2,5 @@
 .idea
 
 # Fichiers word car ils sont inutiles
-*.doc, *.docx
+*.doc
+*.docx
