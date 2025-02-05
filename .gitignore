@@ -4,3 +4,6 @@
 # Fichiers word car ils sont inutiles
 *.doc
 *.docx
+
+# Env files
+.Venv
